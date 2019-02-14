@@ -1,0 +1,14 @@
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.csprojAssemblyReference.cache
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.csproj.CoreCompileInputs.cache
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorAssemblyInfo.cache
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorAssemblyInfo.cs
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.AssemblyInfoInputs.cache
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.AssemblyInfo.cs
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\bin\Debug\netcoreapp2.2\calls-api.deps.json
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\bin\Debug\netcoreapp2.2\calls-api.runtimeconfig.json
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\bin\Debug\netcoreapp2.2\calls-api.runtimeconfig.dev.json
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\bin\Debug\netcoreapp2.2\calls-api.dll
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\bin\Debug\netcoreapp2.2\calls-api.pdb
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorTargetAssemblyInfo.cache
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.dll
+C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.pdb
