@@ -12,3 +12,16 @@ C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\bin\Debug\netcoreapp2.
 C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorTargetAssemblyInfo.cache
 C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.dll
 C:\Users\reodice\iCloudDrive\code\api\calls-api\calls-api\obj\Debug\netcoreapp2.2\calls-api.pdb
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.csproj.CoreCompileInputs.cache
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorAssemblyInfo.cache
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorAssemblyInfo.cs
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.AssemblyInfoInputs.cache
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.AssemblyInfo.cs
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.dll
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.pdb
+C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.deps.json
+C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.runtimeconfig.json
+C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.runtimeconfig.dev.json
+C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.dll
+C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.pdb
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorTargetAssemblyInfo.cache

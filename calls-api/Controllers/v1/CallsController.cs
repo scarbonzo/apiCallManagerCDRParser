@@ -22,14 +22,12 @@ public class CallsController : ControllerBase
 
         if (start == null)
         {
-            //start = DateTime.Now.Date;
-            start = new DateTime(2016, 3, 2, 9, 0, 0);
+            start = DateTime.Now.Date;
         }
 
         if (end == null)
         {
-            //end = DateTime.Now.Date.AddHours(23).AddMinutes(59).AddSeconds(59);
-            end = new DateTime(2016, 3, 2, 10, 0, 0);
+            end = DateTime.Now.Date.AddHours(23).AddMinutes(59).AddSeconds(59);
         }
 
         if (number != null)
@@ -65,4 +63,5 @@ public class CallsController : ControllerBase
 
         return Ok(results);
     }
+
 }

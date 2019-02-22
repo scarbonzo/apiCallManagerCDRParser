@@ -11677,11 +11677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reodice\\iCloudDrive\\code\\api\\calls-api\\calls-api\\calls-api.csproj",
+      "projectUniqueName": "C:\\VS\\services\\apiCallManagerCDRParser\\calls-api\\calls-api.csproj",
       "projectName": "calls-api",
-      "projectPath": "C:\\Users\\reodice\\iCloudDrive\\code\\api\\calls-api\\calls-api\\calls-api.csproj",
+      "projectPath": "C:\\VS\\services\\apiCallManagerCDRParser\\calls-api\\calls-api.csproj",
       "packagesPath": "C:\\Users\\reodice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reodice\\iCloudDrive\\code\\api\\calls-api\\calls-api\\obj\\",
+      "outputPath": "C:\\VS\\services\\apiCallManagerCDRParser\\calls-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

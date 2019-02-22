@@ -1,9 +1,8 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 public partial class Calls
 {
-    [Key]
     public string Pkid { get; set; }
     public int Year { get; set; }
     public int Month { get; set; }
