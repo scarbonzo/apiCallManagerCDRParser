@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "15226a414ffd747c4fd0d49dae4e9e8cbe4637a6"
+    "signature": "352fe77697b647f1cc4db3ac52b63202c5553c9c"
   },
   "compilationOptions": {
     "defines": [
@@ -29,7 +29,8 @@
           "Microsoft.EntityFrameworkCore": "2.2.2",
           "Microsoft.EntityFrameworkCore.Design": "2.2.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.2",
-          "Microsoft.NETCore.App": "2.2.0-preview2-26905-02"
+          "Microsoft.NETCore.App": "2.2.0-preview2-26905-02",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.0.1916590"
         },
         "runtime": {
           "calls-api.dll": {}
@@ -440,6 +441,7 @@
       },
       "Microsoft.NETCore.Platforms/2.2.0-preview2-26905-02": {},
       "Microsoft.NETCore.Targets/2.0.0": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.0.1916590": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.2.0-preview2-26905-02"
@@ -3518,6 +3520,13 @@
       "sha512": "sha512-odP/tJj1z6GylFpNo7pMtbd/xQgTC3Ex2If63dRTL38bBNMwsBnJ+RceUIyHdRBC0oik/3NehYT+oECwBhIM3Q==",
       "path": "microsoft.netcore.targets/2.0.0",
       "hashPath": "microsoft.netcore.targets.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.0.1916590": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bIEPJ4V0spW0aLb5/XQvs8ziv85wrR62IDowAItnfXCXHOUelEEOW59lq95IfXMFf/tWUDyrcLQh8rnFVfWWyw==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.0.1916590",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.0.1916590.nupkg.sha512"
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",

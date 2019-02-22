@@ -25,3 +25,4 @@ C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-a
 C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.dll
 C:\VS\services\apiCallManagerCDRParser\calls-api\bin\Debug\netcoreapp2.2\calls-api.pdb
 C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.RazorTargetAssemblyInfo.cache
+C:\VS\services\apiCallManagerCDRParser\calls-api\obj\Debug\netcoreapp2.2\calls-api.csprojAssemblyReference.cache
